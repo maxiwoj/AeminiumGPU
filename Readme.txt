@@ -1,5 +1,13 @@
 AeminiumGPU
 
+This fork adds a Filter operation to the original AeminiumGPU framework. It has been merged here: https://github.com/AEminium/AeminiumGPU/pull/1 
+
+Paper for the implementation of the Filter operation can be found here: https://github.com/maxiwoj/AeminiumGPU/blob/master/docs/AeminiumGPU%20-%20Filter.pdf
+
+Original Readme file: 
+
+AeminiumGPU
+
 A runtime library that exposes a Parallel Collection API with operations that can run
 either on the GPU or the CPU. The GPU execution uses the JavaCL bindings, which allow
 for the execution of the generated OpenCL Code.
